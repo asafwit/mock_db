@@ -1,0 +1,28 @@
+{
+  events: [
+          {
+            id: 121345,
+            title: "basketball game",
+            description: "what a game!",
+            location: "sportek",
+            time: "19:30",
+            date: "21 August 2022"
+          },
+          {
+            id: 1213456,
+            title: "basketball game",
+            description: "what a game!",
+            location: "sportek",
+            time: "20:30",
+            date: "22 August 2022"
+          },
+          {
+            id: 12134567,
+            title: "basketball game",
+            description: "what a game!",
+            location: "sportek",
+            time: "19:00",
+            date: "23 August 2022"
+          }
+        ]
+}
